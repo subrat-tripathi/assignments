@@ -2,3 +2,5 @@ GrainsTest.java
  GrainsTest
 ScrabbleScoreTest.java
  ScrabbleScoreTest
+RotationalCipherTest.java
+ RotationalCipherTest

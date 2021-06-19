@@ -3,3 +3,5 @@ Grains.java
 Scrabble.java
  Scrabble
  Scrabble$Letter
+RotationalCipher.java
+ RotationalCipher
