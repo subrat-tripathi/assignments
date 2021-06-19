@@ -1,7 +1,13 @@
+Allergies.java
+ Allergies
 Grains.java
  Grains
+RotationalCipher.java
+ RotationalCipher
+Allergen.java
+ Allergen
 Scrabble.java
  Scrabble
  Scrabble$Letter
-RotationalCipher.java
- RotationalCipher
+WordCount.java
+ WordCount

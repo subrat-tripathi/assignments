@@ -4,3 +4,7 @@ ScrabbleScoreTest.java
  ScrabbleScoreTest
 RotationalCipherTest.java
  RotationalCipherTest
+WordCountTest.java
+ WordCountTest
+AllergiesTest.java
+ AllergiesTest
