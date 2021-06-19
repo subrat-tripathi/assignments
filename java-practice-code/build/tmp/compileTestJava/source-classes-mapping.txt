@@ -1,2 +1,4 @@
 GrainsTest.java
  GrainsTest
+ScrabbleScoreTest.java
+ ScrabbleScoreTest
